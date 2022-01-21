@@ -1,5 +1,5 @@
 import React from 'react';
-import './TodoTemplate.scss';
+import '../scss/TodoTemplate.scss';
 
 const Todotemplate = ({ children }) => {
   return (
